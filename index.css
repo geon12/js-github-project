@@ -11,3 +11,13 @@
 ul {
   list-style: none;
 }
+
+img, h3 {
+  cursor: pointer;
+}
+
+.repo {
+  border: 5px solid black;
+  padding: 5px;
+  margin: 2px;
+}
